@@ -1,6 +1,11 @@
 ﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (FBS),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"FBS","Food Balances (2010-)","398","Kazakhstan","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","18538.1","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","398","Kazakhstan","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","18754.26","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","417","Kyrgyzstan","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","6223.49","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","417","Kyrgyzstan","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","6323.64","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","762","Tajikistan","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","9128.13","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","762","Tajikistan","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","9337","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","795","Turkmenistan","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","6065.07","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","795","Turkmenistan","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","6158.42","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","860","Uzbekistan","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","32449.58","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","860","Uzbekistan","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","32976.95","X","Figure from international organizations"

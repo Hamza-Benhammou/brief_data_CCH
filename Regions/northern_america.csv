@@ -1,3 +1,5 @@
 ﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (FBS),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"FBS","Food Balances (2010-)","124","Canada","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","37035.25","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","124","Canada","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","37522.58","X","Figure from international organizations"
+"FBS","Food Balances (2010-)","840","United States of America","511","Total Population - Both sexes","S2501","Population","2018","2018","1000 No","332140.04","X","Figure from international organizations"
 "FBS","Food Balances (2010-)","840","United States of America","511","Total Population - Both sexes","S2501","Population","2019","2019","1000 No","334319.67","X","Figure from international organizations"
